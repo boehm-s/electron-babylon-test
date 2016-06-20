@@ -4,7 +4,7 @@
   "description": "A very minimal Electron + BabylonJS 3D environnement example",
   "main": "main.js",
   "scripts": {
-    "start": "electron main.js"
+    "start": "electron index.js"
   },
   "repository": {
     "type": "git",
